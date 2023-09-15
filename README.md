@@ -1,4 +1,4 @@
-# Win Prediction using Machine Learning
+# IPL Win Prediction using Machine Learning
 
 This project aims to predict the winner of an Ipl match based on match stats of ipl players, umpires, venues, etc. For this project, we will initially perform exploratory data analysis and eventually build a machine learning model. For this model we will be using Logistic Regression  which uses a binomial probability distribution function and and Naive Bayes and analyze the results to get an optimized model.
 ## Inference 
